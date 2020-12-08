@@ -60,4 +60,4 @@ exclude:
   - "changelog.md"
   - "script"
   - "vendor"
-  - "thinkspace.gemspec"
+  - "hardpath.gemspec"
